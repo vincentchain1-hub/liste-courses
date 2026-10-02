@@ -1,5 +1,5 @@
 /* Service worker : met l'application en cache pour un fonctionnement hors ligne. */
-var VERSION = "liste-courses-v1";
+var VERSION = "liste-courses-v2";
 var COQUILLE = [
   "./",
   "./index.html",
