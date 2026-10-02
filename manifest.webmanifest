@@ -1,0 +1,19 @@
+{
+  "name": "Ma liste de courses",
+  "short_name": "Courses",
+  "description": "Liste de courses rangee par rayon, avec quantites, prix et export. Fonctionne hors ligne.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3F5F0",
+  "theme_color": "#F3F5F0",
+  "categories": ["shopping", "productivity", "lifestyle"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
